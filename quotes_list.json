@@ -1,0 +1,302 @@
+[
+    {
+        "q": "It's very strange that the people you love are often the people you're most cruel to.",
+        "a": "Kenneth Branagh",
+        "c": "85",
+        "h": "<blockquote>&ldquo;It's very strange that the people you love are often the people you're most cruel to.&rdquo; &mdash; <footer>Kenneth Branagh</footer></blockquote>"
+    },
+    {
+        "q": "Every time we liberate a woman, we liberate a man. ",
+        "a": "Margaret Mead",
+        "c": "51",
+        "h": "<blockquote>&ldquo;Every time we liberate a woman, we liberate a man. &rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>"
+    },
+    {
+        "q": "Life is filled with secrets. You can't learn them all at once.",
+        "a": "Dan Brown",
+        "c": "62",
+        "h": "<blockquote>&ldquo;Life is filled with secrets. You can't learn them all at once.&rdquo; &mdash; <footer>Dan Brown</footer></blockquote>"
+    },
+    {
+        "q": "We cannot change anything unless we accept it.",
+        "a": "Carl Jung",
+        "c": "46",
+        "h": "<blockquote>&ldquo;We cannot change anything unless we accept it.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>"
+    },
+    {
+        "q": "Experience is simply the name we give our mistakes. ",
+        "a": "Oscar Wilde",
+        "c": "52",
+        "h": "<blockquote>&ldquo;Experience is simply the name we give our mistakes. &rdquo; &mdash; <footer>Oscar Wilde</footer></blockquote>"
+    },
+    {
+        "q": "Go as far as you can see and you will see further.  ",
+        "a": "Zig Ziglar",
+        "c": "52",
+        "h": "<blockquote>&ldquo;Go as far as you can see and you will see further.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>"
+    },
+    {
+        "q": "To plant a garden is to believe in tomorrow.  ",
+        "a": "Audrey Hepburn",
+        "c": "46",
+        "h": "<blockquote>&ldquo;To plant a garden is to believe in tomorrow.  &rdquo; &mdash; <footer>Audrey Hepburn</footer></blockquote>"
+    },
+    {
+        "q": "Saying nothing sometimes says the most.",
+        "a": "Emily Dickinson",
+        "c": "39",
+        "h": "<blockquote>&ldquo;Saying nothing sometimes says the most.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>"
+    },
+    {
+        "q": "The temptation to give up is strongest just before victory.",
+        "a": "Zen Proverb",
+        "c": "59",
+        "h": "<blockquote>&ldquo;The temptation to give up is strongest just before victory.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>"
+    },
+    {
+        "q": "Sometimes you have to lose all you have to find out who you truly are.",
+        "a": "Roy T. Bennett",
+        "c": "70",
+        "h": "<blockquote>&ldquo;Sometimes you have to lose all you have to find out who you truly are.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>"
+    },
+    {
+        "q": "Show me a hero, and I'll write you a tragedy.",
+        "a": "F. Scott Fitzgerald",
+        "c": "45",
+        "h": "<blockquote>&ldquo;Show me a hero, and I'll write you a tragedy.&rdquo; &mdash; <footer>F. Scott Fitzgerald</footer></blockquote>"
+    },
+    {
+        "q": "Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.",
+        "a": "Charles Spurgeon",
+        "c": "92",
+        "h": "<blockquote>&ldquo;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>"
+    },
+    {
+        "q": "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. ",
+        "a": "Buddha",
+        "c": "135",
+        "h": "<blockquote>&ldquo;A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. &rdquo; &mdash; <footer>Buddha</footer></blockquote>"
+    },
+    {
+        "q": "Even the smallest person can change the course of the future.",
+        "a": "J.R.R. Tolkien",
+        "c": "61",
+        "h": "<blockquote>&ldquo;Even the smallest person can change the course of the future.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>"
+    },
+    {
+        "q": "You're braver than you believe, and stronger than you seem, and smarter than you think.",
+        "a": "A.A. Milne",
+        "c": "87",
+        "h": "<blockquote>&ldquo;You're braver than you believe, and stronger than you seem, and smarter than you think.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>"
+    },
+    {
+        "q": "Paths are made by walking.",
+        "a": "Franz Kafka",
+        "c": "26",
+        "h": "<blockquote>&ldquo;Paths are made by walking.&rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>"
+    },
+    {
+        "q": "When you want something in life, you just gotta reach out and grab it.",
+        "a": "Christopher McCandless",
+        "c": "70",
+        "h": "<blockquote>&ldquo;When you want something in life, you just gotta reach out and grab it.&rdquo; &mdash; <footer>Christopher McCandless</footer></blockquote>"
+    },
+    {
+        "q": "The present moment is filled with joy and happiness. If you are attentive, you will see it.",
+        "a": "Thich Nhat Hanh",
+        "c": "91",
+        "h": "<blockquote>&ldquo;The present moment is filled with joy and happiness. If you are attentive, you will see it.&rdquo; &mdash; <footer>Thich Nhat Hanh</footer></blockquote>"
+    },
+    {
+        "q": "You must welcome change as the rule but not as your ruler. ",
+        "a": "Denis Waitley",
+        "c": "59",
+        "h": "<blockquote>&ldquo;You must welcome change as the rule but not as your ruler. &rdquo; &mdash; <footer>Denis Waitley</footer></blockquote>"
+    },
+    {
+        "q": "Words are the clothing of our thoughts.",
+        "a": "Jonathan Swift",
+        "c": "39",
+        "h": "<blockquote>&ldquo;Words are the clothing of our thoughts.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>"
+    },
+    {
+        "q": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+        "a": "Alan Watts",
+        "c": "96",
+        "h": "<blockquote>&ldquo;The only way to make sense out of change is to plunge into it, move with it, and join the dance.&rdquo; &mdash; <footer>Alan Watts</footer></blockquote>"
+    },
+    {
+        "q": "To get angry is like to revenge yourself for the guilt of others.",
+        "a": "Jonathan Swift",
+        "c": "65",
+        "h": "<blockquote>&ldquo;To get angry is like to revenge yourself for the guilt of others.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>"
+    },
+    {
+        "q": "The purpose of life is the expansion of happiness.",
+        "a": "Deepak Chopra",
+        "c": "50",
+        "h": "<blockquote>&ldquo;The purpose of life is the expansion of happiness.&rdquo; &mdash; <footer>Deepak Chopra</footer></blockquote>"
+    },
+    {
+        "q": "The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.",
+        "a": "Carlos Ruiz Zafon",
+        "c": "99",
+        "h": "<blockquote>&ldquo;The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>"
+    },
+    {
+        "q": "Those who dream by day are cognizant of many things which escape those who dream only by night.",
+        "a": "Vincent van Gogh",
+        "c": "95",
+        "h": "<blockquote>&ldquo;Those who dream by day are cognizant of many things which escape those who dream only by night.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>"
+    },
+    {
+        "q": "The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.",
+        "a": "Heraclitus",
+        "c": "124",
+        "h": "<blockquote>&ldquo;The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>"
+    },
+    {
+        "q": "Don't let someone elses. opinion become your reality.",
+        "a": "Les Brown",
+        "c": "53",
+        "h": "<blockquote>&ldquo;Don't let someone elses. opinion become your reality.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>"
+    },
+    {
+        "q": "Appear weak when you are strong, and strong when you are weak.",
+        "a": "Sun Tzu",
+        "c": "62",
+        "h": "<blockquote>&ldquo;Appear weak when you are strong, and strong when you are weak.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>"
+    },
+    {
+        "q": "When you're the only sane person, you look like the only insane person.",
+        "a": "Criss Jami",
+        "c": "71",
+        "h": "<blockquote>&ldquo;When you're the only sane person, you look like the only insane person.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>"
+    },
+    {
+        "q": "Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.",
+        "a": "James Allen",
+        "c": "165",
+        "h": "<blockquote>&ldquo;Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.&rdquo; &mdash; <footer>James Allen</footer></blockquote>"
+    },
+    {
+        "q": "Inspire yourself to be great. Being good isn't good enough.",
+        "a": "Gurbaksh Chahal",
+        "c": "59",
+        "h": "<blockquote>&ldquo;Inspire yourself to be great. Being good isn't good enough.&rdquo; &mdash; <footer>Gurbaksh Chahal</footer></blockquote>"
+    },
+    {
+        "q": "It is not fair to ask of others what you are not willing to do yourself.",
+        "a": "Eleanor Roosevelt",
+        "c": "72",
+        "h": "<blockquote>&ldquo;It is not fair to ask of others what you are not willing to do yourself.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>"
+    },
+    {
+        "q": "Your chances of success in any undertaking can always be measured by your belief in yourself.",
+        "a": "Robert Collier",
+        "c": "93",
+        "h": "<blockquote>&ldquo;Your chances of success in any undertaking can always be measured by your belief in yourself.&rdquo; &mdash; <footer>Robert Collier</footer></blockquote>"
+    },
+    {
+        "q": "The best way to not feel hopeless is to get up and do something.",
+        "a": "Barack Obama",
+        "c": "64",
+        "h": "<blockquote>&ldquo;The best way to not feel hopeless is to get up and do something.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>"
+    },
+    {
+        "q": "In the beginner's mind there are many possibilities, but in the expert's mind there are few.",
+        "a": "Shunryu Suzuki",
+        "c": "92",
+        "h": "<blockquote>&ldquo;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>"
+    },
+    {
+        "q": "When you know what you want, and you want it bad enough, you will find a way to get it.",
+        "a": "Jim Rohn",
+        "c": "87",
+        "h": "<blockquote>&ldquo;When you know what you want, and you want it bad enough, you will find a way to get it.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>"
+    },
+    {
+        "q": "Don't seek, don't avoid, don't expect. Take what comes and be happy.",
+        "a": "Maxime Lagace",
+        "c": "68",
+        "h": "<blockquote>&ldquo;Don't seek, don't avoid, don't expect. Take what comes and be happy.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>"
+    },
+    {
+        "q": "Enthusiasm makes up for a host of deficiencies.",
+        "a": "Barack Obama",
+        "c": "47",
+        "h": "<blockquote>&ldquo;Enthusiasm makes up for a host of deficiencies.&rdquo; &mdash; <footer>Barack Obama</footer></blockquote>"
+    },
+    {
+        "q": "Every man gotta right to decide his own destiny.",
+        "a": "Bob Marley",
+        "c": "48",
+        "h": "<blockquote>&ldquo;Every man gotta right to decide his own destiny.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>"
+    },
+    {
+        "q": "I am not absentminded. It is the presence of mind that makes me unaware of everything else.",
+        "a": "Gilbert Chesterton",
+        "c": "91",
+        "h": "<blockquote>&ldquo;I am not absentminded. It is the presence of mind that makes me unaware of everything else.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>"
+    },
+    {
+        "q": "The greatest of empires, is the empire over one's self.",
+        "a": "Publilius Syrus",
+        "c": "55",
+        "h": "<blockquote>&ldquo;The greatest of empires, is the empire over one's self.&rdquo; &mdash; <footer>Publilius Syrus</footer></blockquote>"
+    },
+    {
+        "q": "The goal is not to show how great you are to others, but how vulnerable you are to yourself.",
+        "a": "Maxime Lagace",
+        "c": "92",
+        "h": "<blockquote>&ldquo;The goal is not to show how great you are to others, but how vulnerable you are to yourself.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>"
+    },
+    {
+        "q": "We must learn to live together as brothers or perish together as fools.",
+        "a": "Martin Luther King, Jr.",
+        "c": "71",
+        "h": "<blockquote>&ldquo;We must learn to live together as brothers or perish together as fools.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>"
+    },
+    {
+        "q": "Talk does not cook rice.",
+        "a": "Chinese Proverb",
+        "c": "24",
+        "h": "<blockquote>&ldquo;Talk does not cook rice.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>"
+    },
+    {
+        "q": "Be thankful for everything that happens in your life; it's all an experience.",
+        "a": "Roy T. Bennett",
+        "c": "77",
+        "h": "<blockquote>&ldquo;Be thankful for everything that happens in your life; it's all an experience.&rdquo; &mdash; <footer>Roy T. Bennett</footer></blockquote>"
+    },
+    {
+        "q": "Every strike brings me closer to the next home run. ",
+        "a": "Babe Ruth",
+        "c": "52",
+        "h": "<blockquote>&ldquo;Every strike brings me closer to the next home run. &rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>"
+    },
+    {
+        "q": "A heart is not judged by how much you love, but by how much you are loved by others.",
+        "a": "Judy Garland",
+        "c": "84",
+        "h": "<blockquote>&ldquo;A heart is not judged by how much you love, but by how much you are loved by others.&rdquo; &mdash; <footer>Judy Garland</footer></blockquote>"
+    },
+    {
+        "q": "Do not believe that you will reach your destination without leaving the shore. ",
+        "a": "Chinese Proverb",
+        "c": "79",
+        "h": "<blockquote>&ldquo;Do not believe that you will reach your destination without leaving the shore. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>"
+    },
+    {
+        "q": "You can do two things at once, but you can't focus effectively on two things at once.",
+        "a": "Gary Keller",
+        "c": "85",
+        "h": "<blockquote>&ldquo;You can do two things at once, but you can't focus effectively on two things at once.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>"
+    },
+    {
+        "q": "I live by letting things happen.",
+        "a": "Dogen",
+        "c": "32",
+        "h": "<blockquote>&ldquo;I live by letting things happen.&rdquo; &mdash; <footer>Dogen</footer></blockquote>"
+    }
+]
